@@ -42,7 +42,7 @@
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/><br/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
@@ -55,7 +55,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"  width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/><br/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"  width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/
