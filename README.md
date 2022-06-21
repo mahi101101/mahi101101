@@ -28,7 +28,7 @@
 
 # 💻 Languages and Tools:
 
-<span float="center" margin="20px" >
+<p align="center" margin="20px" >
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
@@ -37,9 +37,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
@@ -74,7 +74,7 @@
 
 <br/>
 
-</span>
+</p>
 
 <br/>
 
