@@ -28,7 +28,7 @@
 
 # 💻 Languages and Tools:
 
-<p align="center" margin="20px" >
+<p align="center" margin="40px" >
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70" display="inline-block" margin="20px" margin-bottom="50px"/>
