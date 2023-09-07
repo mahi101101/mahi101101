@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)
 
 <h1 align="center">Hi 👋, I'm M Mahi Pavan Teja Sathguna Sai</h1>
-<h3 align="center">I am a passionate Full Stack developer and a fourth year student at Vellore Institute of Technology.</h3>
+<h3 align="center">I am a passionate Udergraduate Full Stack developer from Vellore Institute of Technology.</h3>
 
 <br/>
 
