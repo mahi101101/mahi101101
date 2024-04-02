@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)
+<img width="1100" height="350" src="hello world.jpg">
 
 <h1 align="center">Hi 👋, I'm M Mahi Pavan Teja Sathguna Sai</h1>
 <h3 align="center">I am a passionate Udergraduate Full Stack developer from Vellore Institute of Technology.</h3>
